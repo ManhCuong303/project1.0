@@ -14,3 +14,6 @@ class PostsController extends AppController {
 	    }
 }
 ?>
+
+
+
